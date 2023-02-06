@@ -1,3 +1,4 @@
+//TO FIND UNIQUE ELEMENTS IN A MATRIX OF ORDER nXn
 import java.util.*;
 class UniqueEle{
   public static void main(String args[]){
